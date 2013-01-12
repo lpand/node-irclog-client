@@ -12,10 +12,6 @@
     ,	"messageSplit": 512
 		}
 	}
-, "tcpServer": {
-		"host": "10.10.10.10"
-	,	"port": 8124
-	}
 ,	"tcpClient": {
 		"host": "10.10.10.10"
 	,	"port": 8124
@@ -26,11 +22,5 @@
 	,	"NICK": 2
 	,	"MESSAGE": 3
 	, "ME": 4
-	}
-,	"db": {
-		"user": ""
-	,	"password": ""
-	,	"host": "127.0.0.1"
-	,	"port": 27017
 	}
 }
