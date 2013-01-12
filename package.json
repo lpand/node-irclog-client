@@ -9,7 +9,7 @@
   "repository": "",
   "dependencies" : {
     "msgpack": "0.1.7",
-    "irclog-util": "git+https://CarettaCaretta@github.com/node-irclog-util.git"
+    "irclog-util": "git+https://github.com/CarettaCaretta/node-irclog-util.git"
   },
   "author": "",
   "license": "BSD"
